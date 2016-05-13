@@ -1,0 +1,229 @@
+body
+{
+	margin:0;
+	font-family:arial, helvetica, sans-serif;
+}
+
+#topbar
+{
+	color:#333333;
+	width:100%;
+	height:39px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.fixedwidth
+{
+	width:980px;
+	margin:0 auto;
+}
+
+#logodiv
+{
+	height: 39px;
+	float:left;
+	border-right:1px solid #CCCCCC;
+	padding-right:8px;
+	position:relative;
+	left: 9px;
+}
+
+#logodiv img
+{
+	padding-top: 8px;
+}
+
+#topmenudiv
+{
+	border-left:1px solid #CCCCCC;
+	height:39px;
+	float:left;
+	position:relative;
+	left:117px;
+}
+
+#topmenudiv ul
+{
+	margin:0;
+	padding:0;
+}
+
+#topmenudiv li
+{
+	list-style:none;
+	font-weight:bold;
+	font-size:0.35cm; 
+	padding: 12px 11.5px 12px 11.5px;
+	border-right:1px solid #CCCCCC;
+	float:left;
+}
+
+#searchdiv
+{
+	float:left;
+	position:relative;
+	left:116px;
+	padding: 9px 11px 9px 11px;
+}
+
+#searchdiv input
+{
+	background-color:#e4e4e4;
+	height:18px;
+	width:203px;
+	font-weight: bold;
+	font-size:0.34cm;
+	background-image:url("images/magnify.png");
+	background-repeat:no-repeat;
+	background-position:right center;
+	border: 1px solid transparent;
+}
+
+
+a:visited
+{
+	text-decoration: none; 
+	color:#333333; 
+}
+
+
+input:focus 
+{
+    outline:none;
+}
+
+::-webkit-input-placeholder 
+{
+	padding-left:4px;
+	color:#333333;
+}
+
+:-moz-placeholder /* Firefox 18- */
+{ 
+	padding-left:4px;
+	color:#333333; 
+}
+
+::-moz-placeholder /* Firefox 19+ */
+{  
+	padding-left:4px;
+	color:#333333;  
+}
+
+:-ms-input-placeholder 
+{  
+	padding-left:4px;
+	color:#333333;  
+}
+
+.break
+{
+	clear:both;
+}
+
+#content
+{
+	position:relative;
+	top:30px;
+	width:100%;
+	height:39px;
+	color:#4C4C4C;
+}
+
+#content p
+{
+	margin:0;
+	padding:0;
+}
+
+.date
+{
+	font-size:0.635cm;
+	font-family:'Gill Sans MT','Gill Sans',arial,helvetica,sans-serif; 
+}
+
+#headline
+{
+	float:left;
+}
+
+#description
+{
+	float:left;
+	font-size: 14px;
+	font-family: arial, sans-serif;
+}
+
+#schedule
+{
+	float:right;
+}
+
+.BBCWORLDNEWS
+{
+	font-size:0.55cm;
+	font-family:'Gill Sans MT', 'Gill Sans', arial, helvetica, sans-serif;
+	color:#000000;
+	position: relative;
+	bottom:4px;
+}
+
+#articles
+{
+	font-size:0.37cm;
+	font-weight:bold;
+	font-family: arial, sans-serif;
+	color:#000000;
+	position:relative;
+	top:15px;
+}
+
+#article1
+{
+	float:left;
+	width: 144px;
+	margin: 7px;
+}
+
+#article2
+{
+	float:left;
+	width: 144px;
+	margin: 7px;
+}
+#article3
+{
+	float:left;
+	width: 144px;
+	margin: 7px;
+}
+#article4
+{
+	float:left;
+	width: 144px;
+	margin: 7px;
+}
+
+#bigarticle
+{
+	float:left;
+	font-size:0.37cm;
+	font-weight:bold;
+	font-family: arial, sans-serif;
+	color:#000000;
+	position:relative;
+	bottom:20px;
+	left:13px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
